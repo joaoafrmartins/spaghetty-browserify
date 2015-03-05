@@ -1,0 +1,25 @@
+{
+  "name": "spaghetty-browserify",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "Spaghetty Browserify",
+  "keywords": [
+    "spaghetty",
+    "browserify"
+  ],
+  "dependencies": {
+    "a-cli-command": "",
+    "browserify": ""
+  },
+  "devDependencies": {
+    "a-cli-domain": ""
+  },
+  "homepage": "https://github.com/joaoafrmartins/spaghetty-browserify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/spaghetty-browserify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/spaghetty-browserify/issues"
+  }
+}
