@@ -21,5 +21,6 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/spaghetty-browserify/issues"
-  }
+  },
+  "license": "MIT"
 }
